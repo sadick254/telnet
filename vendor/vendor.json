@@ -3,9 +3,10 @@
 	"ignore": "test",
 	"package": [
 		{
-			"checksumSHA1": "koUWn6mLFMcDXaOId5xm1JgzNgc=",
-			"path": "network/telnet",
-			"revision": ""
+			"checksumSHA1": "Kx3Xzjpumgm2rjkc/RDSiAj3RjM=",
+			"path": "network/telnetserver",
+			"revision": "d3833e30eac8f4a80066e941ef9d6d182286ad65",
+			"revisionTime": "2016-10-05T15:42:53Z"
 		}
 	],
 	"rootPath": "network/telnet"
