@@ -1,4 +1,4 @@
-package telnetserver
+package server
 
 import (
 	"fmt"

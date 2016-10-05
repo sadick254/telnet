@@ -1,8 +1,8 @@
 package main
 
-import "network/telnetserver"
+import "network/telnet/server"
 
 func main() {
-	server := telnetserver.NewServer(":1400")
+	server := server.NewServer(":1400")
 	server.Run()
 }
