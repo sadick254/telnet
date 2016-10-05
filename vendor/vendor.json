@@ -1,0 +1,12 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "koUWn6mLFMcDXaOId5xm1JgzNgc=",
+			"path": "network/telnet",
+			"revision": ""
+		}
+	],
+	"rootPath": "network/telnet"
+}
